@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Box, Flex, Button} from '@chakra-ui/react';
+import {Box, Button} from '@chakra-ui/react';
 
 
 const NavBar = ({accounts, setCurrentAccount})=>{
